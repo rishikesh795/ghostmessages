@@ -197,7 +197,7 @@ export default function SendMessage() {
     </div>
     </div>
     <footer className="text-center p-2 md:p-6 bg-zinc-950 text-white">
-    © 2024 Ghost Messages. <br />Visit developer <a href="https://sauraverse.com" target='_blank'>@<span className='underline'>sauraverse</span></a>
+    © 2024 Ghost Messages. <br />Rishikesh Kumar Gupta
   </footer>
     </>
   );

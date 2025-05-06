@@ -47,7 +47,7 @@ import {
           </Row>
           <Row>
             <Button
-              href={`https://ghostmessages.sauraverse.com/verify/${username}`}
+              href={`https://ghostmessages-ten.vercel.app/verify/${username}`}
               style={{ color: '#61dafb' }}
             >
               <Heading as="h3">Verify here</Heading>
